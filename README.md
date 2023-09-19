@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lakyMadushan
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java, MySQL, HTML, CSS and JS.
+- 💞️ I have experiences about Netbeans and MySQL Workbench and Intellij IDE and VS code ...
+
 
 <!---
 lakyMadushan/lakyMadushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
