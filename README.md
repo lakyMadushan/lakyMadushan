@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lakyMadushan
+- 👋 Hi, I’m Lakshitha Madushan
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java, MySQL, HTML, CSS and JS.
 - 💞️ I have experiences about Netbeans and MySQL Workbench and Intellij IDE and VS code ...
